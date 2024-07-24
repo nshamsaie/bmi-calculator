@@ -7,7 +7,6 @@ def calculate_bmi(weight, height):
         return "Height cannot be zero."
 
 
-
 def determine_bmi_category(bmi):
     """Determine the BMI category based on BMI value."""
     if bmi < 18.5:
