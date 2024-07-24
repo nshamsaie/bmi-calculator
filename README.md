@@ -1,4 +1,4 @@
-# bmi-calculator
+# BMI-calculator
 
 #### A project by CS IUST team
 
